@@ -1,0 +1,134 @@
+*{
+    margin:0px;
+    
+}
+.mainn{
+    
+}
+
+.main{
+    display: flex;
+    
+    border-radius: 20px;
+    margin-left: 200px;
+    background-color: white;
+    width: 1100px;
+    padding-top: 40px;
+    
+}
+.right{
+    background-color: #8a2be2;
+    margin-left: 100px;
+    width: 380px;
+    height: 600px;
+    border-radius: 20px;
+   
+    margin-top: 10px;
+    padding-top: 10px;
+    
+    
+}
+.left{
+    width: 700px;
+}
+.dat{
+    display: flex;
+    justify-content: space-between;
+    margin: 50px;
+    border-radius: 10px;
+    padding-left: 20px;
+}
+
+.prt{
+    padding-left: 70px;
+}
+.one{
+color: white;
+display: flex;
+    justify-content: space-around;
+padding-top: 20px;
+}
+.two{
+    color: white;
+    margin-left: 20px;
+    
+}
+.thre{
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    padding-left: 20px;
+    padding-right: 10px;
+}
+.thre h6{
+padding-top: 10px;
+}
+.four{
+    color: white;
+    margin-top: 10px;
+    margin-left: 20px;
+
+}
+.four input{
+    background-color: #a25be4;
+    border: none;
+    margin: 5px;
+    color: white;
+    padding-top: 5px;
+    padding-right: 80px;
+    
+}
+.five{
+    display: flex;
+    padding-left: 20px;
+    padding-top: 20px;
+    justify-content: space-between;
+    padding-right: 20px;
+}
+.le{
+    color: white;
+    
+}
+.ri{
+    color: white;
+
+    
+}
+#id input{
+    padding-right: 10px;
+}
+.ten{
+    display: flex;
+    color: white;
+    padding-left: 20px;
+}
+.ten h6{
+    color: whitesmoke;
+    padding-left: 20px;
+    padding-top: 20px;
+}
+.ten input{
+    background-color:#a25be4;
+    border: none;  
+
+}
+.tenn input{
+    padding-right: 5px;
+}
+.tennn input{
+    display: none;
+}
+.six{
+    display: flex;
+    padding-left: 20px;
+    justify-content: space-evenly;
+    padding: 10px;
+    height: 50px;
+    width: 300px;
+    background-color: aquamarine;
+    margin-left: 20px;
+    color: white;
+    border-radius: 20px;
+    margin-top: 30px;
+}
+

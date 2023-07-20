@@ -1,0 +1,30 @@
+{
+    "food":[
+        {
+        "id":1,
+        "img":"./images/Rectangle 19.png",
+        "head":"Italy Pizza",
+        "des":"Extra cheese and toping",
+        "qua":1,
+        "price":681
+        },
+        {
+            "id":2,
+            "img":"./images/Rectangle 21.png",
+            "head":"Combo Plate",
+            "des":"Extra cheese and toping",
+            "qua":1,
+            "price":681
+
+            },
+            {
+                "id":1,
+                "img":"./images/Rectangle 23.png",
+                "head":"Spanish Rice",
+                "des":"Extra cheese and toping",
+                "qua":1,
+                "price":681
+                }
+
+    ]
+}
